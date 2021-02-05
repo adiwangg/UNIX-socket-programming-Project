@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hosC.dir/HospitalC.cpp.o  -o hosC 

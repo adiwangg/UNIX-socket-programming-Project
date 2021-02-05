@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/healthcenter.dir/Healthcenter.cpp.o  -o healthcenter 

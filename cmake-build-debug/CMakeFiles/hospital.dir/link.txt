@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hospital.dir/Hospital.cpp.o  -o hospital 

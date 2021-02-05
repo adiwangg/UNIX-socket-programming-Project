@@ -1,0 +1,8 @@
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/hosC.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/healthcenter.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/hospital.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/hosB.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/hosA.dir
+/mnt/c/Users/hxm/CLionProjects/proj/cmake-build-debug/CMakeFiles/proj.dir

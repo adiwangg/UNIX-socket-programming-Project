@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/hxm/CLionProjects/proj/Healthcenter.cpp
+Healthcenter.h
+/mnt/c/Users/hxm/CLionProjects/proj/Healthcenter.h
+iostream
+-
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+
+/mnt/c/Users/hxm/CLionProjects/proj/Healthcenter.h
+
